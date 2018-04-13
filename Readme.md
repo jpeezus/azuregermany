@@ -1,8 +1,6 @@
-# Deploy the VM-Series Firewall on Azure Germany
+# Deploy the VM-Series Firewall on Azure in Germany
 
 
-
-#VM-Series Deployment Template for Germany
 This template launches the VM-Series in Germany to be deployed with all of the necessary hardware components needed to operate the VM-Series. By default in other regions the VM-Series is deployed with the following three separate interfaces. 
 
 - Mgmt interface  eth0
